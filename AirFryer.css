@@ -1,0 +1,18 @@
+*{
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+.tittleAirFryer{
+    text-align: center;
+    margin-top: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.paragrahAirFryer{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 12px;
+}
+.divIngredientsAirFryer > ul > li, .divStepsAirFryer > ol > li{
+    margin: 12px;
+}

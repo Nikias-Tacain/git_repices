@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+.header > h1{
+    text-align: center;
+    margin-top: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.divIndex{
+    margin-top: 12px;
+}
+
+/* clases */
+/* id */
+/* grupo de selectores */
+.buttonRojo,.buttonVerde, #sloppyChicken{
+    font-size: 25px;
+}
+.buttonRojo{
+    color: red;
+}
+.buttonVerde{
+    color: green;
+}
+#sloppyChicken{
+    color: aquamarine;
+}

@@ -1,0 +1,18 @@
+*{
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+.tittleSloppy{
+    text-align: center;
+    margin-top: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.paragrahSloopy{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 12px;
+}
+.divIngredientsSloppy > ul > li, .divStepsSloppy > ol > li{
+    margin: 12px;
+}
